@@ -6,8 +6,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here](https://github.com/ils01/order-summary-component)
+- Live Site URL: [Here](https://ils01.github.io/order-summary-component/)
 
 ## My process
 
